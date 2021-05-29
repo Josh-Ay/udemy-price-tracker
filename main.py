@@ -10,7 +10,7 @@ from messenger import Messenger
 UDEMY_WEBSITE = "https://www.udemy.com/"
 
 # location of chrome driver application on system
-PATH_TO_DRIVER = "C://Chrome Driver/chromedriver.exe"
+PATH_TO_DRIVER = "path_to_driver_here"
 
 # creating a chrome driver and inputting the website url
 driver = webdriver.Chrome(executable_path=PATH_TO_DRIVER)
