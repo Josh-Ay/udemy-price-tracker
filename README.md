@@ -1,3 +1,3 @@
-# udemy-price-tracker
-A simple web-scraping bot.
+# udemy-price-tracker-bot
+A simple web-scraping bot built with python.
 
